@@ -7,4 +7,4 @@ This repository is created to demonstrate:
 - Pushing changes to GitHub
 - Pulling updates from the remote repository
 
-Created by: Shivam Garg
+Created by: Disha Kakkar
