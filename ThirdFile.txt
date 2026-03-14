@@ -1,3 +1,7 @@
 Third File to do some changes
 SOmeone else has made some changes
+<<<<<<< HEAD
 Local Repo changes 
+=======
+Some more changes
+>>>>>>> a9d97b1404bd94d73b9aee713bfc06fa6aee32c7
